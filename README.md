@@ -38,4 +38,4 @@
 
 ---
 
-&copy; 2015-当前年份(Current Year) | 本页面列举的所有产品均由书航（Shuhang / James Li）开发并保留所有权利，除非另外特别说明的。
+© <script>document.write(new Date().getFullYear());</script> 本页面列举的所有产品均由书航（Shuhang / James Li）开发并保留所有权利，除非另外特别说明的。
